@@ -1,7 +1,9 @@
 shell-novice
 ============
 
-First encounter with the Unix shell.  Lesson website is [here](http://swcarpentry.github.io/shell-novice/).
+This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://github.com/bham-carpentries/2018-07-26-python) workshop on Thursday 26th and Friday 27th July
+
+First encounter with the Unix shell.  Lesson website is [here](http://bham-carpentries.github.io/2018-07-26-python_shell-novice/).
 
 Interested in contributing?  Please see our [Guidelines for Contributors](CONTRIBUTING.md).
 
